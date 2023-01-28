@@ -20,7 +20,7 @@
 ## Projects
 
 * Project SKY - Project SKY is a project created with educational purposes, using Angular as a Front-end, and a Node.js REST API server as a Back-end.
-* BlueSun - An NFT marketplace with created with educational purposes, using C# .NET. 
+* BlueSun - An NFT marketplace with created with educational purposes, using C# and .NET Core Framework. 
 
 ## 📊 GitHub Stats 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kebabzter&theme=dark&hide_border=false)
