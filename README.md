@@ -13,11 +13,10 @@
 ## 📊 GitHub Stats 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kebabzter&theme=dark&hide_border=false)
 <div style="display: flex; align-items:end">
-<p><img align="left" style="height: 190px; width:90%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kebabzter&theme=transparent&show_icons=true&locale=en&layout=compact" alt="kebabzter" /></p>
+<p><img align="left" style="height: 190px" src="https://github-readme-stats.vercel.app/api/top-langs?username=kebabzter&theme=transparent&show_icons=true&locale=en&layout=compact" alt="kebabzter" /></p>
 
-<p>&nbsp;<img align="center" style="height: 190px; width:90%" src="https://github-readme-stats.vercel.app/api?username=kebabzter&theme=transparent&show_icons=true&locale=en" alt="kebabzter" /></p>
+<p>&nbsp;<img align="center" style="height: 190px;" src="https://github-readme-stats.vercel.app/api?username=kebabzter&theme=transparent&show_icons=true&locale=en" alt="kebabzter" /></p>
 </div>
-
 ## My Skill Set
 <div align="center">
 <a href="https://skillicons.dev"><img  src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,angular,express,mongodb,css,html,git,nodejs" /></a>
