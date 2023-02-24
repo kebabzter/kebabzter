@@ -11,7 +11,7 @@
 * BlueSun - An NFT marketplace with created with educational purposes, using C# and .NET Core Framework. 
 
 ## 📊 GitHub Stats 
-![](https://github-readme-streak-stats.herokuapp.com/?user=kebabzter&theme=transparent&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=kebabzter&theme=dark&hide_border=false)
 <div style="display: flex; align-items:end">
 <p><img align="left" style="height: 190px" src="https://github-readme-stats.vercel.app/api/top-langs?username=kebabzter&theme=transparent&show_icons=true&locale=en&layout=compact" alt="kebabzter" /></p>
 
