@@ -15,7 +15,7 @@
 <div style="display: flex; align-items:center flex-direction:row; gap: 1rem;">
 <p><img align="left" style="height: 190px" src="https://github-readme-stats.vercel.app/api/top-langs?username=kebabzter&theme=transparent&show_icons=true&locale=en&layout=compact" alt="kebabzter" /></p>
 
-<p>&nbsp;<img align="center" style="height: 190px" src="https://github-readme-stats.vercel.app/api?username=kebabzter&theme=transparent&show_icons=true&locale=en" alt="kebabzter" /></p>
+<p>&nbsp;<img align="center" style="height: 190px; margin-top: 1rem" src="https://github-readme-stats.vercel.app/api?username=kebabzter&theme=transparent&show_icons=true&locale=en" alt="kebabzter" /></p>
 </div>
 
 ## My Skill Set
