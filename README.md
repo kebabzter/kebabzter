@@ -1,6 +1,6 @@
 ![MasterHead](https://cdn.discordapp.com/attachments/960121710953254912/1078686157593923624/github-header-image_13.png)
 ## About Me
-- 📖 I am currently studying at Software University and First Language School Varna.
+- 📖 I am currently studying at First Language School Varna and have graduated Software University/Softuni as a Full-Stack Developer.
 - 🎨 I love working on small designs whenever i can.
 - 🌱 I am currently learning **React**.
 
