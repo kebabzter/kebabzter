@@ -28,6 +28,6 @@
 <a href="https://twitter.com/@kebabzter_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kebabzter_" height="30" width="40" /></a>
 <a href="https://fb.com/gabriel chitarliev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gabriel chitarliev" height="30" width="40" /></a>
 <a href="https://instagram.com/gabriel.chitarliev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabriel.chitarliev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kebabzter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kebabzter" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCg45lJySZkRjc0Q5AB_iQFw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kebabzter" height="30" width="40" /></a>
 </p>
 </div>
